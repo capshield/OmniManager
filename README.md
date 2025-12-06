@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.svg" alt="OmniManager Logo" width="120" height="120">
+<img src="https://i.ibb.co/fV0P2bL8/icon.jpg" alt="OmniManager Logo" width="120" height="120">
 
 # OmniManager
 
